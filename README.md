@@ -18,9 +18,7 @@
   
 
 <div style="display: inline_block" align="center">
-  <br>
-    <img align="center" alt="fernando-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/Wg28LsF/profile-pic.png?width=676&height=676">
- <div> 
+
    <br>
   <a href="https://www.youtube.com/channel/UCnzoUBMc8GC5svpg_Xj9NCQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/fernando_silvajesus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
