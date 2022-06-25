@@ -2,7 +2,7 @@
 #### Bem vindo ao meu GitHub!
 <br>
 
-- 🖥 Hoje trabalho como técnico de TI
+- 🖥 Atualmente trabalhando como técnico de TI
 - 💻 Estudando HTML CSS Javascript e Bootstrap
 - 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas - UNICID
 - 💬 Contate-me no Email: Fernandosp.dejesus@gmail.com
@@ -29,7 +29,7 @@
  
  
 </div>
-  <h1> Atualmente buscando uma vaga como Front-End </h1>
+  <h1> Atualmente buscando uma oportunidade de estágio como Front-End </h1>
 </div>
   
 
